@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <style type="text/css">
+      .zsiq_floatmain .santacap,
+      .zsiq_floatmain #titlediv {
+        display: none !important;
+      }
+      .zsiq_floatmain.zsiq_theme1 .zsiq_flt_rel {
+        width: 40px !important;
+        height: 40px !important;
+      }
+      .zsiq_floatmain.zsiq_theme1 .siqico-chat:before {
+        font-size: 18px !important;
+        line-height: 39px !important;
+      }
+      .zsiq_floatmain.zsiq_theme1 {
+        width: 40px !important;
+        max-height: 40px !important;
+        right: 20px !important;
+      }
+    </style>
+    <script type="text/javascript" id="zsiqchat">
+      var $zoho = $zoho || {};
+      $zoho.salesiq = $zoho.salesiq || {
+        widgetcode:
+          "22d44bdb923316a6c02f8036e6adc29c0765e42e054297ae91732c6d6b58cf71",
+        values: {},
+        ready: function() {},
+      };
+      var d = document;
+      s = d.createElement("script");
+      s.type = "text/javascript";
+      s.id = "zsiqscript";
+      s.defer = true;
+      s.src = "https://salesiq.zoho.in/widget";
+      t = d.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(s, t);
+    </script>
+  </head>
+  <body id="vrBody">
+    <noscript>
+      <strong
+        >We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work
+        properly without JavaScript enabled. Please enable it to
+        continue.</strong
+      >
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

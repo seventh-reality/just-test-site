@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "noImplicitThis": false,
+    "noUnusedParameters": false,
+    "emitDecoratorMetadata": true,
+    "noUncheckedIndexedAccess": false,
+    "noUnusedLocals": false,
+    "strictFunctionTypes": true,
+    "resolveJsonModule": true,
+    "checkJs": true,
+    "noLib": false,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "pretty": true,
+    "lib": ["es5", "es6", "dom"],
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": "."
+  },
+  "include": ["**/*"],
+  "exclude": ["node_modules", "dist"]
+}

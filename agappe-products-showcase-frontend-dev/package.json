@@ -1,0 +1,164 @@
+{
+  "name": "agappe-products-showcase-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/main.js",
+  "description": "",
+  "license": "MIT",
+  "productName": "Agappe-Products-Showcase-Frontend",
+  "author": {
+    "name": "SaintGenesis Developers",
+    "email": "developers@saintgenesis.com",
+    "url": "https://saintgenesis.com"
+  },
+  "contributors": [
+    {
+      "name": "Arnab Banerjee",
+      "email": "arnab_banerjee@yahoo.com"
+    }
+  ],
+  "scripts": {
+    "commit": "commit",
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build --mode development",
+    "build:production": "vue-cli-service build --mode production",
+    "lint": "vue-cli-service lint --fix",
+    "prepare": "husky install",
+    "release": "shipjs prepare",
+    "update-packages": "npx npm-check-updates -u && yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SaintGenesis/agappe-products-showcase-frontend"
+  },
+  "bugs": {
+    "url": "https://github.com/SaintGenesis/agappe-products-showcase-frontend/issues"
+  },
+  "homepage": "http://agappe-products-showcase-frontend.s3-website.ap-south-1.amazonaws.com/",
+  "dependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "@babylonjs/gui": "^4.2.0",
+    "@babylonjs/inspector": "^4.2.0",
+    "@babylonjs/loaders": "^4.2.0",
+    "@babylonjs/materials": "^4.2.0",
+    "@babylonjs/post-processes": "^4.2.0",
+    "@babylonjs/procedural-textures": "^4.2.0",
+    "@babylonjs/serializers": "^4.2.0",
+    "@sentry/browser": "^6.13.3",
+    "@sentry/tracing": "^6.13.3",
+    "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^9",
+    "axios": "^0.24.0",
+    "babylonjs": "^4.2.0",
+    "babylonjs-loaders": "^4.2.0",
+    "core-js": "^3.19.0",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "postcss": "^7",
+    "secure-ls": "^1.2.6",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vt-notifications": "^0.4.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "@commitlint/prompt-cli": "^13.2.1",
+    "@commitlint/travis-cli": "^13.2.1",
+    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
+    "@vue/cli-plugin-vuex": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "husky": "^7.0.4",
+    "shipjs": "0.24.0",
+    "vue-cli-plugin-tailwindcss": "~0.1.1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "browser": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 2019,
+      "sourceType": "module",
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-console": 0,
+      "no-irregular-whitespace": 0,
+      "semi": [
+        "warn",
+        "always"
+      ],
+      "quotes": [
+        "warn",
+        "double"
+      ],
+      "no-empty": [
+        "warn",
+        {
+          "allowEmptyCatch": false
+        }
+      ],
+      "indent": [
+        "warn",
+        4
+      ],
+      "linebreak-style": [
+        "warn",
+        "windows"
+      ],
+      "camelcase": "off",
+      "no-explicit-any": "off",
+      "explicit-function-return-type": "off",
+      "no-parameter-properties": "off",
+      "no-object-literal-type-assertion": "off",
+      "no-inferrable-types": "off",
+      "interface-name-prefix": "off",
+      "no-var-requires": "off",
+      "array-type": "off",
+      "explicit-module-boundary-types": "off",
+      "class-name-casing": "off"
+    }
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "commitlint": {
+    "rules": {
+      "references-empty": [
+        1,
+        "never"
+      ]
+    },
+    "parserPreset": {
+      "parserOpts": {
+        "issuePrefixes": [
+          "APSF-"
+        ]
+      }
+    }
+  }
+}

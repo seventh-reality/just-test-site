@@ -1,0 +1,1142 @@
+[
+    {
+        "code": "af",
+        "name": "Afghanistan",
+        "ISD_Code": "+93"
+    },
+    {
+        "code": "al",
+        "name": "Albania",
+        "ISD_Code": "+355"
+    },
+    {
+        "code": "dz",
+        "name": "Algeria",
+        "ISD_Code": "+213"
+    },
+    {
+        "code": "as",
+        "name": "American Samoa",
+        "ISD_Code": "+1684"
+    },
+    {
+        "code": "ad",
+        "name": "Andorra",
+        "ISD_Code": "+376"
+    },
+    {
+        "code": "ao",
+        "name": "Angola",
+        "ISD_Code": "+244"
+    },
+    {
+        "code": "ai",
+        "name": "Anguilla",
+        "ISD_Code": "+1264"
+    },
+    {
+        "code": "ag",
+        "name": "Antigua and Barbuda",
+        "ISD_Code": "+1268"
+    },
+    {
+        "code": "ar",
+        "name": "Argentina",
+        "ISD_Code": "+54"
+    },
+    {
+        "code": "am",
+        "name": "Armenia",
+        "ISD_Code": "+374"
+    },
+    {
+        "code": "aw",
+        "name": "Aruba",
+        "ISD_Code": "+297"
+    },
+    {
+        "code": "au",
+        "name": "Australia",
+        "ISD_Code": "+61"
+    },
+    {
+        "code": "at",
+        "name": "Austria",
+        "ISD_Code": "+43"
+    },
+    {
+        "code": "az",
+        "name": "Azerbaijan",
+        "ISD_Code": "+994"
+    },
+    {
+        "code": "bs",
+        "name": "Bahamas",
+        "ISD_Code": "+1242"
+    },
+    {
+        "code": "bh",
+        "name": "Bahrain",
+        "ISD_Code": "+973"
+    },
+    {
+        "code": "bd",
+        "name": "Bangladesh",
+        "ISD_Code": "+880"
+    },
+    {
+        "code": "bb",
+        "name": "Barbados",
+        "ISD_Code": "+1246"
+    },
+    {
+        "code": "by",
+        "name": "Belarus",
+        "ISD_Code": "+375"
+    },
+    {
+        "code": "be",
+        "name": "Belgium",
+        "ISD_Code": "+32"
+    },
+    {
+        "code": "bz",
+        "name": "Belize",
+        "ISD_Code": "+501"
+    },
+    {
+        "code": "bj",
+        "name": "Benin",
+        "ISD_Code": "+229"
+    },
+    {
+        "code": "bm",
+        "name": "Bermuda",
+        "ISD_Code": "+1441"
+    },
+    {
+        "code": "bt",
+        "name": "Bhutan",
+        "ISD_Code": "+975"
+    },
+    {
+        "code": "bo",
+        "name": "Bolivia",
+        "ISD_Code": "+591"
+    },
+    {
+        "code": "ba",
+        "name": "Bosnia and Herzegovina",
+        "ISD_Code": "+387"
+    },
+    {
+        "code": "bw",
+        "name": "Botswana",
+        "ISD_Code": "+267"
+    },
+    {
+        "code": "br",
+        "name": "Brazil",
+        "ISD_Code": "+55"
+    },
+    {
+        "code": "io",
+        "name": "British Indian Ocean Territory",
+        "ISD_Code": "+246"
+    },
+    {
+        "code": "vg",
+        "name": "British Virgin Islands",
+        "ISD_Code": "+1284"
+    },
+    {
+        "code": "bn",
+        "name": "Brunei",
+        "ISD_Code": "+673"
+    },
+    {
+        "code": "bg",
+        "name": "Bulgaria",
+        "ISD_Code": "+359"
+    },
+    {
+        "code": "bf",
+        "name": "Burkina Faso",
+        "ISD_Code": "+226"
+    },
+    {
+        "code": "bi",
+        "name": "Burundi",
+        "ISD_Code": "+257"
+    },
+    {
+        "code": "kh",
+        "name": "Cambodia",
+        "ISD_Code": "+855"
+    },
+    {
+        "code": "cm",
+        "name": "Cameroon",
+        "ISD_Code": "+237"
+    },
+    {
+        "code": "ca",
+        "name": "Canada",
+        "ISD_Code": "+1"
+    },
+    {
+        "code": "cv",
+        "name": "Cape Verde",
+        "ISD_Code": "+238"
+    },
+    {
+        "code": "ky",
+        "name": "Cayman Islands",
+        "ISD_Code": "+1345"
+    },
+    {
+        "code": "cf",
+        "name": "Central African Republic",
+        "ISD_Code": "+236"
+    },
+    {
+        "code": "td",
+        "name": "Chad",
+        "ISD_Code": "+235"
+    },
+    {
+        "code": "cl",
+        "name": "Chile",
+        "ISD_Code": "+56"
+    },
+    {
+        "code": "cn",
+        "name": "China",
+        "ISD_Code": "+86"
+    },
+    {
+        "code": "cx",
+        "name": "Christmas Island",
+        "ISD_Code": "+6189164"
+    },
+    {
+        "code": "cc",
+        "name": "Cocos Islands",
+        "ISD_Code": "+6189162"
+    },
+    {
+        "code": "co",
+        "name": "Colombia",
+        "ISD_Code": "+57"
+    },
+    {
+        "code": "km",
+        "name": "Comoros",
+        "ISD_Code": "+269"
+    },
+    {
+        "code": "ck",
+        "name": "Cook Islands",
+        "ISD_Code": "+682"
+    },
+    {
+        "code": "cr",
+        "name": "Costa Rica",
+        "ISD_Code": "+506"
+    },
+    {
+        "code": "hr",
+        "name": "Croatia",
+        "ISD_Code": "+385"
+    },
+    {
+        "code": "cu",
+        "name": "Cuba",
+        "ISD_Code": "+53"
+    },
+    {
+        "code": "cw",
+        "name": "Curacao",
+        "ISD_Code": "+5999"
+    },
+    {
+        "code": "cy",
+        "name": "Cyprus",
+        "ISD_Code": "+357"
+    },
+    {
+        "code": "cz",
+        "name": "Czech Republic",
+        "ISD_Code": "+420"
+    },
+    {
+        "code": "cd",
+        "name": "Democratic Republic of the Congo",
+        "ISD_Code": "+243"
+    },
+    {
+        "code": "dk",
+        "name": "Denmark",
+        "ISD_Code": "+45"
+    },
+    {
+        "code": "dj",
+        "name": "Djibouti",
+        "ISD_Code": "+253"
+    },
+    {
+        "code": "dm",
+        "name": "Dominica",
+        "ISD_Code": "+1767"
+    },
+    {
+        "code": "tl",
+        "name": "East Timor",
+        "ISD_Code": "+670"
+    },
+    {
+        "code": "ec",
+        "name": "Ecuador",
+        "ISD_Code": "+593"
+    },
+    {
+        "code": "eg",
+        "name": "Egypt",
+        "ISD_Code": "+20"
+    },
+    {
+        "code": "sv",
+        "name": "El Salvador",
+        "ISD_Code": "+503"
+    },
+    {
+        "code": "gq",
+        "name": "Equatorial Guinea",
+        "ISD_Code": "+240"
+    },
+    {
+        "code": "er",
+        "name": "Eritrea",
+        "ISD_Code": "+291"
+    },
+    {
+        "code": "ee",
+        "name": "Estonia",
+        "ISD_Code": "+372"
+    },
+    {
+        "code": "et",
+        "name": "Ethiopia",
+        "ISD_Code": "+251"
+    },
+    {
+        "code": "fk",
+        "name": "Falkland Islands",
+        "ISD_Code": "+500"
+    },
+    {
+        "code": "fo",
+        "name": "Faroe Islands",
+        "ISD_Code": "+298"
+    },
+    {
+        "code": "fj",
+        "name": "Fiji",
+        "ISD_Code": "+679"
+    },
+    {
+        "code": "fi",
+        "name": "Finland",
+        "ISD_Code": "+358"
+    },
+    {
+        "code": "fr",
+        "name": "France",
+        "ISD_Code": "+33"
+    },
+    {
+        "code": "pf",
+        "name": "French Polynesia",
+        "ISD_Code": "+689"
+    },
+    {
+        "code": "ga",
+        "name": "Gabon",
+        "ISD_Code": "+241"
+    },
+    {
+        "code": "gm",
+        "name": "Gambia",
+        "ISD_Code": "+220"
+    },
+    {
+        "code": "ge",
+        "name": "Georgia",
+        "ISD_Code": "+995"
+    },
+    {
+        "code": "de",
+        "name": "Germany",
+        "ISD_Code": "+49"
+    },
+    {
+        "code": "gh",
+        "name": "Ghana",
+        "ISD_Code": "+233"
+    },
+    {
+        "code": "gi",
+        "name": "Gibraltar",
+        "ISD_Code": "+350"
+    },
+    {
+        "code": "gr",
+        "name": "Greece",
+        "ISD_Code": "+30"
+    },
+    {
+        "code": "gl",
+        "name": "Greenland",
+        "ISD_Code": "+299"
+    },
+    {
+        "code": "gd",
+        "name": "Grenada",
+        "ISD_Code": "+1473"
+    },
+    {
+        "code": "gu",
+        "name": "Guam",
+        "ISD_Code": "+1671"
+    },
+    {
+        "code": "gt",
+        "name": "Guatemala",
+        "ISD_Code": "+502"
+    },
+    {
+        "code": "gn",
+        "name": "Guinea",
+        "ISD_Code": "+224"
+    },
+    {
+        "code": "gw",
+        "name": "Guinea-Bissau",
+        "ISD_Code": "+245"
+    },
+    {
+        "code": "gy",
+        "name": "Guyana",
+        "ISD_Code": "+592"
+    },
+    {
+        "code": "ht",
+        "name": "Haiti",
+        "ISD_Code": "+509"
+    },
+    {
+        "code": "hn",
+        "name": "Honduras",
+        "ISD_Code": "+504"
+    },
+    {
+        "code": "hk",
+        "name": "Hong Kong",
+        "ISD_Code": "+852"
+    },
+    {
+        "code": "hu",
+        "name": "Hungary",
+        "ISD_Code": "+36"
+    },
+    {
+        "code": "is",
+        "name": "Iceland",
+        "ISD_Code": "+354"
+    },
+    {
+        "code": "in",
+        "name": "India",
+        "ISD_Code": "+91"
+    },
+    {
+        "code": "id",
+        "name": "Indonesia",
+        "ISD_Code": "+62"
+    },
+    {
+        "code": "ir",
+        "name": "Iran",
+        "ISD_Code": "+98"
+    },
+    {
+        "code": "iq",
+        "name": "Iraq",
+        "ISD_Code": "+964"
+    },
+    {
+        "code": "ie",
+        "name": "Ireland",
+        "ISD_Code": "+353"
+    },
+    {
+        "code": "il",
+        "name": "Israel",
+        "ISD_Code": "+972"
+    },
+    {
+        "code": "it",
+        "name": "Italy",
+        "ISD_Code": "+39"
+    },
+    {
+        "code": "ci",
+        "name": "Ivory Coast",
+        "ISD_Code": "+225"
+    },
+    {
+        "code": "jm",
+        "name": "Jamaica",
+        "ISD_Code": "+1876"
+    },
+    {
+        "code": "jp",
+        "name": "Japan",
+        "ISD_Code": "+81"
+    },
+    {
+        "code": "je",
+        "name": "Jersey",
+        "ISD_Code": "+441534"
+    },
+    {
+        "code": "jo",
+        "name": "Jordan",
+        "ISD_Code": "+962"
+    },
+    {
+        "code": "ke",
+        "name": "Kenya",
+        "ISD_Code": "+254"
+    },
+    {
+        "code": "ki",
+        "name": "Kiribati",
+        "ISD_Code": "+686"
+    },
+    {
+        "code": "xk",
+        "name": "Kosovo",
+        "ISD_Code": "+383"
+    },
+    {
+        "code": "kw",
+        "name": "Kuwait",
+        "ISD_Code": "+965"
+    },
+    {
+        "code": "kg",
+        "name": "Kyrgyzstan",
+        "ISD_Code": "+996"
+    },
+    {
+        "code": "la",
+        "name": "Laos",
+        "ISD_Code": "+856"
+    },
+    {
+        "code": "lv",
+        "name": "Latvia",
+        "ISD_Code": "+371"
+    },
+    {
+        "code": "lb",
+        "name": "Lebanon",
+        "ISD_Code": "+961"
+    },
+    {
+        "code": "ls",
+        "name": "Lesotho",
+        "ISD_Code": "+266"
+    },
+    {
+        "code": "lr",
+        "name": "Liberia",
+        "ISD_Code": "+231"
+    },
+    {
+        "code": "ly",
+        "name": "Libya",
+        "ISD_Code": "+218"
+    },
+    {
+        "code": "li",
+        "name": "Liechtenstein",
+        "ISD_Code": "+423"
+    },
+    {
+        "code": "lt",
+        "name": "Lithuania",
+        "ISD_Code": "+370"
+    },
+    {
+        "code": "lu",
+        "name": "Luxembourg",
+        "ISD_Code": "+352"
+    },
+    {
+        "code": "mo",
+        "name": "Macau",
+        "ISD_Code": "+853"
+    },
+    {
+        "code": "mg",
+        "name": "Madagascar",
+        "ISD_Code": "+261"
+    },
+    {
+        "code": "mw",
+        "name": "Malawi",
+        "ISD_Code": "+265"
+    },
+    {
+        "code": "my",
+        "name": "Malaysia",
+        "ISD_Code": "+60"
+    },
+    {
+        "code": "mv",
+        "name": "Maldives",
+        "ISD_Code": "+960"
+    },
+    {
+        "code": "ml",
+        "name": "Mali",
+        "ISD_Code": "+223"
+    },
+    {
+        "code": "mt",
+        "name": "Malta",
+        "ISD_Code": "+356"
+    },
+    {
+        "code": "mh",
+        "name": "Marshall Islands",
+        "ISD_Code": "+692"
+    },
+    {
+        "code": "mr",
+        "name": "Mauritania",
+        "ISD_Code": "+222"
+    },
+    {
+        "code": "mu",
+        "name": "Mauritius",
+        "ISD_Code": "+230"
+    },
+    {
+        "code": "mx",
+        "name": "Mexico",
+        "ISD_Code": "+52"
+    },
+    {
+        "code": "fm",
+        "name": "Micronesia",
+        "ISD_Code": "+691"
+    },
+    {
+        "code": "md",
+        "name": "Moldova",
+        "ISD_Code": "+373"
+    },
+    {
+        "code": "mc",
+        "name": "Monaco",
+        "ISD_Code": "+377"
+    },
+    {
+        "code": "mn",
+        "name": "Mongolia",
+        "ISD_Code": "+976"
+    },
+    {
+        "code": "me",
+        "name": "Montenegro",
+        "ISD_Code": "+382"
+    },
+    {
+        "code": "ms",
+        "name": "Montserrat",
+        "ISD_Code": "+1664"
+    },
+    {
+        "code": "ma",
+        "name": "Morocco",
+        "ISD_Code": "+212"
+    },
+    {
+        "code": "mz",
+        "name": "Mozambique",
+        "ISD_Code": "+258"
+    },
+    {
+        "code": "mm",
+        "name": "Myanmar",
+        "ISD_Code": "+95"
+    },
+    {
+        "code": "na",
+        "name": "Namibia",
+        "ISD_Code": "+264"
+    },
+    {
+        "code": "nr",
+        "name": "Nauru",
+        "ISD_Code": "+674"
+    },
+    {
+        "code": "np",
+        "name": "Nepal",
+        "ISD_Code": "+977"
+    },
+    {
+        "code": "nl",
+        "name": "Netherlands",
+        "ISD_Code": "+31"
+    },
+    {
+        "code": "an",
+        "name": "Netherlands Antilles",
+        "ISD_Code": "+599"
+    },
+    {
+        "code": "nc",
+        "name": "New Caledonia",
+        "ISD_Code": "+687"
+    },
+    {
+        "code": "nz",
+        "name": "New Zealand",
+        "ISD_Code": "+64"
+    },
+    {
+        "code": "ni",
+        "name": "Nicaragua",
+        "ISD_Code": "+505"
+    },
+    {
+        "code": "ne",
+        "name": "Niger",
+        "ISD_Code": "+227"
+    },
+    {
+        "code": "ng",
+        "name": "Nigeria",
+        "ISD_Code": "+234"
+    },
+    {
+        "code": "nu",
+        "name": "Niue",
+        "ISD_Code": "+683"
+    },
+    {
+        "code": "kp",
+        "name": "North Korea",
+        "ISD_Code": "+850"
+    },
+    {
+        "code": "mp",
+        "name": "Northern Mariana Islands",
+        "ISD_Code": "+1670"
+    },
+    {
+        "code": "no",
+        "name": "Norway",
+        "ISD_Code": "+47"
+    },
+    {
+        "code": "om",
+        "name": "Oman",
+        "ISD_Code": "+968"
+    },
+    {
+        "code": "pk",
+        "name": "Pakistan",
+        "ISD_Code": "+92"
+    },
+    {
+        "code": "pw",
+        "name": "Palau",
+        "ISD_Code": "+680"
+    },
+    {
+        "code": "ps",
+        "name": "Palestine",
+        "ISD_Code": "+970"
+    },
+    {
+        "code": "pa",
+        "name": "Panama",
+        "ISD_Code": "+507"
+    },
+    {
+        "code": "pg",
+        "name": "Papua New Guinea",
+        "ISD_Code": "+675"
+    },
+    {
+        "code": "py",
+        "name": "Paraguay",
+        "ISD_Code": "+595"
+    },
+    {
+        "code": "pe",
+        "name": "Peru",
+        "ISD_Code": "+51"
+    },
+    {
+        "code": "ph",
+        "name": "Philippines",
+        "ISD_Code": "+63"
+    },
+    {
+        "code": "pn",
+        "name": "Pitcairn",
+        "ISD_Code": "+64"
+    },
+    {
+        "code": "pl",
+        "name": "Poland",
+        "ISD_Code": "+48"
+    },
+    {
+        "code": "pt",
+        "name": "Portugal",
+        "ISD_Code": "+351"
+    },
+    {
+        "code": "qa",
+        "name": "Qatar",
+        "ISD_Code": "+974"
+    },
+    {
+        "code": "cg",
+        "name": "Republic of the Congo",
+        "ISD_Code": "+242"
+    },
+    {
+        "code": "re",
+        "name": "Reunion",
+        "ISD_Code": "+262"
+    },
+    {
+        "code": "ro",
+        "name": "Romania",
+        "ISD_Code": "+40"
+    },
+    {
+        "code": "ru",
+        "name": "Russia",
+        "ISD_Code": "+7"
+    },
+    {
+        "code": "rw",
+        "name": "Rwanda",
+        "ISD_Code": "+250"
+    },
+    {
+        "code": "bl",
+        "name": "Saint Barthelemy",
+        "ISD_Code": "+590"
+    },
+    {
+        "code": "sh",
+        "name": "Saint Helena",
+        "ISD_Code": "+290"
+    },
+    {
+        "code": "kn",
+        "name": "Saint Kitts and Nevis",
+        "ISD_Code": "+1869"
+    },
+    {
+        "code": "lc",
+        "name": "Saint Lucia",
+        "ISD_Code": "+1758"
+    },
+    {
+        "code": "mf",
+        "name": "Saint Martin",
+        "ISD_Code": "+590"
+    },
+    {
+        "code": "pm",
+        "name": "Saint Pierre and Miquelon",
+        "ISD_Code": "+508"
+    },
+    {
+        "code": "vc",
+        "name": "Saint Vincent and the Grenadines",
+        "ISD_Code": "+1 784"
+    },
+    {
+        "code": "ws",
+        "name": "Samoa",
+        "ISD_Code": "+685"
+    },
+    {
+        "code": "sm",
+        "name": "San Marino",
+        "ISD_Code": "+378"
+    },
+    {
+        "code": "st",
+        "name": "Sao Tome and Principe",
+        "ISD_Code": "+239"
+    },
+    {
+        "code": "sa",
+        "name": "Saudi Arabia",
+        "ISD_Code": "+966"
+    },
+    {
+        "code": "sn",
+        "name": "Senegal",
+        "ISD_Code": "+221"
+    },
+    {
+        "code": "rs",
+        "name": "Serbia",
+        "ISD_Code": "+381"
+    },
+    {
+        "code": "sc",
+        "name": "Seychelles",
+        "ISD_Code": "+248"
+    },
+    {
+        "code": "sl",
+        "name": "Sierra Leone",
+        "ISD_Code": "+232"
+    },
+    {
+        "code": "sg",
+        "name": "Singapore",
+        "ISD_Code": "+65"
+    },
+    {
+        "code": "sk",
+        "name": "Slovakia",
+        "ISD_Code": "+421"
+    },
+    {
+        "code": "si",
+        "name": "Slovenia",
+        "ISD_Code": "+386"
+    },
+    {
+        "code": "sb",
+        "name": "Solomon Islands",
+        "ISD_Code": "+677"
+    },
+    {
+        "code": "so",
+        "name": "Somalia",
+        "ISD_Code": "+252"
+    },
+    {
+        "code": "za",
+        "name": "South Africa",
+        "ISD_Code": "+27"
+    },
+    {
+        "code": "kr",
+        "name": "South Korea",
+        "ISD_Code": "+82"
+    },
+    {
+        "code": "ss",
+        "name": "South Sudan",
+        "ISD_Code": "+211"
+    },
+    {
+        "code": "es",
+        "name": "Spain",
+        "ISD_Code": "+34"
+    },
+    {
+        "code": "lk",
+        "name": "Sri Lanka",
+        "ISD_Code": "+94"
+    },
+    {
+        "code": "sd",
+        "name": "Sudan",
+        "ISD_Code": "+249"
+    },
+    {
+        "code": "sr",
+        "name": "Suriname",
+        "ISD_Code": "+597"
+    },
+    {
+        "code": "sj",
+        "name": "Svalbard and Jan Mayen",
+        "ISD_Code": "+4779"
+    },
+    {
+        "code": "se",
+        "name": "Sweden",
+        "ISD_Code": "+46"
+    },
+    {
+        "code": "ch",
+        "name": "Switzerland",
+        "ISD_Code": "+41"
+    },
+    {
+        "code": "sy",
+        "name": "Syria",
+        "ISD_Code": "+963"
+    },
+    {
+        "code": "tw",
+        "name": "Taiwan",
+        "ISD_Code": "+886"
+    },
+    {
+        "code": "tj",
+        "name": "Tajikistan",
+        "ISD_Code": "+992"
+    },
+    {
+        "code": "tz",
+        "name": "Tanzania",
+        "ISD_Code": "+255"
+    },
+    {
+        "code": "th",
+        "name": "Thailand",
+        "ISD_Code": "+66"
+    },
+    {
+        "code": "tg",
+        "name": "Togo",
+        "ISD_Code": "+228"
+    },
+    {
+        "code": "tk",
+        "name": "Tokelau",
+        "ISD_Code": "+690"
+    },
+    {
+        "code": "to",
+        "name": "Tonga",
+        "ISD_Code": "+676"
+    },
+    {
+        "code": "tt",
+        "name": "Trinidad and Tobago",
+        "ISD_Code": "+1868"
+    },
+    {
+        "code": "tn",
+        "name": "Tunisia",
+        "ISD_Code": "+216"
+    },
+    {
+        "code": "tr",
+        "name": "Turkey",
+        "ISD_Code": "+90"
+    },
+    {
+        "code": "tm",
+        "name": "Turkmenistan",
+        "ISD_Code": "+993"
+    },
+    {
+        "code": "tc",
+        "name": "Turks and Caicos Islands",
+        "ISD_Code": "+1649"
+    },
+    {
+        "code": "tv",
+        "name": "Tuvalu",
+        "ISD_Code": "+688"
+    },
+    {
+        "code": "ua",
+        "name": "Ukraine",
+        "ISD_Code": "+380"
+    },
+    {
+        "code": "ae",
+        "name": "United Arab Emirates",
+        "ISD_Code": "+971"
+    },
+    {
+        "code": "gb",
+        "name": "United Kingdom",
+        "ISD_Code": "+44"
+    },
+    {
+        "code": "us",
+        "name": "United States",
+        "ISD_Code": "+1"
+    },
+    {
+        "code": "uy",
+        "name": "Uruguay",
+        "ISD_Code": "+598"
+    },
+    {
+        "code": "uz",
+        "name": "Uzbekistan",
+        "ISD_Code": "+998"
+    },
+    {
+        "code": "vu",
+        "name": "Vanuatu",
+        "ISD_Code": "+678"
+    },
+    {
+        "code": "va",
+        "name": "Vatican",
+        "ISD_Code": "+379"
+    },
+    {
+        "code": "ve",
+        "name": "Venezuela",
+        "ISD_Code": "+58"
+    },
+    {
+        "code": "vn",
+        "name": "Vietnam",
+        "ISD_Code": "+84"
+    },
+    {
+        "code": "wf",
+        "name": "Wallis and Futuna",
+        "ISD_Code": "+1340"
+    },
+    {
+        "code": "eh",
+        "name": "Western Sahara",
+        "ISD_Code": "+212"
+    },
+    {
+        "code": "ye",
+        "name": "Yemen",
+        "ISD_Code": "+967"
+    },
+    {
+        "code": "zm",
+        "name": "Zambia",
+        "ISD_Code": "+260"
+    },
+    {
+        "code": "zw",
+        "name": "Zimbabwe",
+        "ISD_Code": "+263"
+    }
+]
